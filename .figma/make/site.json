@@ -1,0 +1,11 @@
+{
+  "title": "petani-juara",
+  "description": "Displays SawitPro’s Petani Juara program details, explaining how farmers can join and compete for weekly Rp1 million prizes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
